@@ -1,0 +1,22 @@
+# Compiled files
+*.o
+*.mod
+OC
+
+# Output files
+*.txt
+*.dat
+*.png
+*.pdf
+*.eps
+
+# Backup files
+*.backup
+*~
+
+# MacOS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
